@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/tv_nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        android:text="Turma legal pakas dlaksdlkasldk"/>
+
+    <TextView
+        android:id="@+id/tv_nome_escola"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="Escola fjkfjs"
+        android:layout_below="@+id/tv_nome"
+        android:paddingTop="10dp"/>
+
+</RelativeLayout>

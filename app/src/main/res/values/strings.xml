@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EstudoCertificadoAndroid</string>
+    <string name="content_authority">com.udacity.br.estudocertificadoandroid</string>
+</resources>
